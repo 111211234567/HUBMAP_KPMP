@@ -12,6 +12,7 @@ The unique variables present in the KPMP SN dataset are:
 - "region"
 - "class"
 - "library_id"
+
   Meanwhile, the unique variables in the KPMP SC dataset are:
 - "sampletype"
 - "Race"
